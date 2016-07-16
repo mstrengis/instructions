@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="instructionBackground">#AA000000</color>
+    <color name="instructionTextColor">#000000</color>
+    <color name="balloonBackgorund">#FFFFFF</color>
+    <color name="balloonBackgorundPressed">#CCCCCC</color>
+</resources>

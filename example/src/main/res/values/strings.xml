@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Instructions</string>
+    <string name="hideTextView">Hide TextView</string>
+    <string name="helloInstructions">Hello instructions!</string>
+    <string name="instructionFirstText">Press this button to hide textview</string>
+    <string name="clickThisButtonToShowTextView">Click this button to show TextView again</string>
+    <string name="showTextView">Show TextView</string>
+</resources>
